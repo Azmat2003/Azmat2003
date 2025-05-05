@@ -8,6 +8,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Azmat2003/count.svg?"  />
+</div>
+
+###
+
 <h3 align="left">❇️  Final year CSE student at Delhi Technological University.<br>❇️  Ex - Software Engineer Intern at Cvent.</h3>
 
 ###
