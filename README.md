@@ -3,8 +3,12 @@
 ###
 
 <div align="center">
-  <img height="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWxxeDA2dnpkbDlxMmloYmlsZnJ0YnR4Z2tubXk0eGxsdHFkZnRxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
+  <img height="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWxxeDA2dnpkbDlxMmloYmlsZnJ0YnR4Z2tubXk0eGxsdHFkZnRxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
 </div>
+
+###
+
+<h3 align="left">❇️  Final year CSE student at Delhi Technological University.<br>❇️  Ex - Software Engineer Intern at Cvent.</h3>
 
 ###
 
@@ -14,6 +18,9 @@
   </a>
   <a href="https://www.linkedin.com/in/azmat28/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://drive.google.com/file/d/1eUxD9KsO43uR_Yw-bdhy9iLzZXYhoOXz/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Resume&logo=unsplash&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="unsplash logo"  />
   </a>
 </div>
 
