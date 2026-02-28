@@ -14,7 +14,7 @@
 
 ###
 
-<h3 align="left">❇️  Final year CSE student at Delhi Technological University.<br>❇️  Ex - Software Engineer Intern at Cvent.</h3>
+<h3 align="left">❇️  Building and Breaking.</h3>
 
 ###
 
