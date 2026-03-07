@@ -25,8 +25,8 @@
   <a href="https://www.linkedin.com/in/azmat28/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://drive.google.com/file/d/11FoY7spmoiwEXpnEqSDCRomFx9trG6up/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Resume&logo=unsplash&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="unsplash logo"  />
+  <!-- <a href="https://drive.google.com/file/d/11FoY7spmoiwEXpnEqSDCRomFx9trG6up/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Resume&logo=unsplash&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="unsplash logo"  /> -->
   </a>
 </div>
 
